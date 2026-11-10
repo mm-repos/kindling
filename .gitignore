@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+server/data/*.sqlite
+*.log
+*.pdf
+*.ics
+*.tsbuildinfo
